@@ -107,34 +107,6 @@ public class Test {
 				break;
 				
 			}
-		}while(selection < 6);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		}while(selection < 6);	
 	}
-
 }
